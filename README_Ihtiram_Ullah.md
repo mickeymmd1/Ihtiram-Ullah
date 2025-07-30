@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Ihtiram Ullah</h1>
-<h3 align="center">Certified IT & Network Engineer | Cisco & Microsoft Certified | Virtualization Enthusiast</h3>
+<h3 align="center">Certified IT & Network Engineer | Cisco & Microsoft Certified </h3>
 
 ---
 
